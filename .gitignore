@@ -1,4 +1,3 @@
 #directorios a ignorar por git
 
-env/*
 priv/*
