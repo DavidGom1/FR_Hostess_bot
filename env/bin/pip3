@@ -1,4 +1,4 @@
-#!/home/pi/bot/bot_pruebas/env/bin/python
+#!/home/bot-grupo-murciano/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
